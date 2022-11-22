@@ -1,3 +1,3 @@
 # furbot-minigames-sites
 
-Publicações Web dos minigames do Furbot  
+Publicações Web dos minigames do Furbot. 
